@@ -1,0 +1,12 @@
+* {
+    text-align: center;
+}
+
+.col-4 {
+    height: 200px;
+}
+
+.symbol {
+    font-size: xx-large;
+    font-weight: bolder;
+}
